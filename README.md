@@ -1,0 +1,2 @@
+# cticbi
+Repositorio BI
